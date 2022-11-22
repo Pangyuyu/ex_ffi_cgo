@@ -1,0 +1,14 @@
+{
+  "name": "ex_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "main": "node ./main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3"
+  }
+}

@@ -1,0 +1,4 @@
+ex_go/.idea
+ex_node/node_modules/*.*
+ex_node/dll/*.*
+ex_node/node_modules/
